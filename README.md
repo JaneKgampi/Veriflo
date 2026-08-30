@@ -1,9 +1,11 @@
-# VeriFlow
-##Credits
+# VeriFlo
+## Credits
+Group project with hlekwayo05,SthebisoKhoza and the rest of the group members(UMP) — my contribution: lecture presentations, UI design
+
 
 Tutor employment and session operations platform for the University of Mpumalanga Student Employment Office (SEO).
 
-VeriFlow covers the full lifecycle: student application → coordinator review → tutor onboarding → scheduled sessions with QR attendance → monthly claims approved by lecturers and the SEO.
+VeriFlo covers the full lifecycle: student application → coordinator review → tutor onboarding → scheduled sessions with QR attendance → monthly claims approved by lecturers and the SEO.
 
 ---
 
